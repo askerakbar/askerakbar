@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+My name is Asker Ali Akbar, I’m a Backend Developer based in Kerala, India.
+
+If you'd like to connect, here’s my [LinkedIn](https://www.linkedin.com/in/askerakbar)
+
 
 <!--
 **askerakbar/askerakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
